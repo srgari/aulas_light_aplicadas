@@ -13,6 +13,7 @@ Aulas até hoje (puxando de memória):
 - [IDE] pycharm
 - [Design Pattern]testar arquivos com python
 - [Matemática] modelo Markowits de diversificação
+- [process_texto] fuzzy_wuzzy: comparação de strings
 - [process texto] web scraping
 - [process texto] regex
 - [process texto] rotulação de texto com snorkel
