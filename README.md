@@ -10,7 +10,7 @@ Aulas até hoje (puxando de memória):
 - [process texto] vim - parte 2
 - [bibliotecas essenciais] numpy
 - [ML] pycaret: machine learning para quem tem prazo
-- [ML] pycharm
+- [IDE] pycharm
 - [Design Pattern]testar arquivos com python
 - [Matemática] modelo Markowits de diversificação
 - [process texto] web scraping
