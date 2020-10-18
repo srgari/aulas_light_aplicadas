@@ -9,3 +9,4 @@ Prof. Sergio:
 
 Prof. Henrique:
 - Snorkel e igrejas
+- webscrapping com requests e beautifulsoup
