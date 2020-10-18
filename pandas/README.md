@@ -1,3 +1,5 @@
 Pandas: como trabalhar com dataframes
 
-Prof. Sergio: groupby
+Prof. Sergio: 
+- groupby
+- estatística básica com pandas
