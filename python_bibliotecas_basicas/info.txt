@@ -1,0 +1,3 @@
+Bibliotecas básicas: as queridinhas que todo mundo chama
+
+Prof. Ana: numpy
