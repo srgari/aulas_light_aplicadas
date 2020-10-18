@@ -11,7 +11,7 @@ Aulas até hoje (puxando de memória):
 - [bibliotecas essenciais] numpy
 - [ML] pycaret: machine learning para quem tem prazo
 - [IDE] pycharm
-- [Design Pattern]testar arquivos com python
+- [Design Pattern] testar arquivos com python
 - [Matemática] modelo Markowits de diversificação
 - [process_texto] fuzzy_wuzzy: comparação de strings
 - [process texto] web scraping
