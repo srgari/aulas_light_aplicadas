@@ -1,8 +1,10 @@
 # aulas_light_aplicadas
 Aulas light aplicadas
 
-Aulas até hoje (puxando de memória):
-- como dar aulas
+
+
+## Aulas até hoje (puxando de memória):
+- [comece_por_aqui] como dar aulas
 - [IDE] vs code
 - [pandas] estatística com pandas
 - [pandas ] groupby
