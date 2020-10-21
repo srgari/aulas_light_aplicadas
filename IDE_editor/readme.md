@@ -3,5 +3,5 @@
 ## Professores:
 - Sergio: VS Code
 - Luiz: 
--- Pycharm 1: básico
--- Pycharm 2: teste de unidades
+- - Pycharm 1: básico
+- - Pycharm 2: teste de unidades
