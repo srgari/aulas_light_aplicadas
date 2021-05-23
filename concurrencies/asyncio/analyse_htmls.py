@@ -1,4 +1,6 @@
 #%%
+### Aki a gente faz ETL, extrai dados e gera o HTML
+
 # from get_html_of_sites import get_all_htmls
 
 # html = get_all_htmls()
@@ -10,7 +12,6 @@ import pyperclip
 #%%
 with open('final_text.txt', 'r') as x:
     html = x.read()
-
 
 # %% with price:
 p = re.compile("<div class=\"informacoesListagemPrincipais\">.*\n.*\n.*<p>(.*)</p>.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*>(.*)<")

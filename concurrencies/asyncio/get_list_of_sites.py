@@ -1,4 +1,5 @@
 # collected from https://www.twilio.com/blog/asynchronous-http-requests-in-python-with-aiohttp
+# aqui a gente pega a lista de sites q existe no site da sinapse. Só isso.
 
 import aiohttp
 import asyncio 
