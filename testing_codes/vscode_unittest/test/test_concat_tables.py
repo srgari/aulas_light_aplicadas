@@ -10,7 +10,7 @@ class Test_join_tables(unittest.TestCase):
     def test_1_function_join_tables(self):        
         assert len(self.df) > 0, 'Dataframe generated is empty!'
         assert len(self.df) > len(self.first_table), 'Dataframe generated is too small!'
-
+        
 
     def test_2_number_of_males_and_females(self):
         assert (
